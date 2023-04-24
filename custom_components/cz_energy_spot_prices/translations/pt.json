@@ -1,0 +1,24 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Configuração",
+                "data": {
+                    "currency": "Moeda",
+                    "unit_of_measurement": "Unidade de Energia"
+                }
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "data": {
+                    "additional_costs_buy": "Custo adicionais a quando a compra de energia",
+                    "additional_costs_sell": "Custo adicionais a quando a venda de energia",
+                    "cheapest_consecutive_hours_buy": "Horas mais baratas para comprar"
+                }
+            }
+        }
+    }
+}
